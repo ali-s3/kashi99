@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kashi99
+- 👋 Hi, I’m @Ali
 - 👀 I’m interested in Mobile and Web App development
-- 🌱 I’m currently learning Java and Advance organization level software and programming techniques
-- 💞️ I’m looking to collaborate on Java Or PHP development
+- 🌱 Currently working with Next.js & Laravel
+- 💞️ I’m looking to collaborate on Javascript & PHP
 - 📫 Reach to me through (email) -> kashiknight99@gmail.com , (WhatsApp) -> +923434851562
 
 <!---
